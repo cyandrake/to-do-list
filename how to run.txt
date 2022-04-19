@@ -1,0 +1,6 @@
+1. clone repository
+2. copy .env.example and remove .example
+3. in console use 
+    - npm i
+    - php artisan migrate 
+    - npm run dev
